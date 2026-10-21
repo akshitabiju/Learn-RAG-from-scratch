@@ -1,0 +1,5 @@
+streamlit>=1.38
+networkx>=3.2
+matplotlib>=3.8
+scipy>=1.11        # required by networkx.pagerank in NetworkX 3.x
+anthropic>=0.40
